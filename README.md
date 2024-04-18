@@ -44,7 +44,7 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 
 1. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 2. Open your browser and go to http://localhost:{PORT} to view the app.
